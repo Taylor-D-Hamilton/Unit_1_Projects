@@ -10,7 +10,7 @@
 
 */
 
-var thisTime= new Date()
+var thisTime= new Date();
 
 var timeStr= thisTime.toLocaleString();
 
