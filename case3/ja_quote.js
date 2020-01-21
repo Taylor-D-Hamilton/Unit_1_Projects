@@ -5,8 +5,8 @@
    Case Problem 3
 
    Random Jane Austen Quote Generator
-   Author: 
-   Date:   
+   Author: Taylor Hamilton
+   Date: 1/21/20 
    
    This script randomly generates a Jane Austen quote from
    a list of 10 quotes and writes that quote into the first
