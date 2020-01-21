@@ -13,7 +13,6 @@
    student union.
 
 */
-
    var thisDate= new Date()
 
    var dateString= thisDate.toLocaleDateString('en-us');
